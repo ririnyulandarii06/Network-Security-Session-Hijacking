@@ -1,8 +1,8 @@
-Network-Security-Session-Hijacking
+**Network-Security-Session-Hijacking**
 
 **Oleh:**
-* **Nama:** [Ririn Yulandari]
-* **NIM:** [105841117923]
+* **Nama:** Ririn Yulandari
+* **NIM:** 105841117923
 
 ---
 Proyek ini mendokumentasikan proses simulasi serangan Man-in-the-Middle (MITM) untuk melakukan Session Hijacking pada protokol Telnet yang tidak terenkripsi menggunakan Kali Linux.
